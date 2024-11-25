@@ -1,7 +1,4 @@
 # Todolist-ReactApp 
-
-## Description Todolist-ReactApp is a simple and intuitive to-do list application built with React. The app allows users to efficiently manage tasks by adding, editing, completing, and deleting to-do items. It is designed with a clean, user-friendly interface and provides a smooth experience across devices. 
-
 ## Features - **Add New Tasks**: Users can add new tasks to their to-do list using the input field and "Add" button. - **Mark Tasks as Completed**: Users can mark tasks as completed by clicking the "Complete" button next to each task. - **Edit Existing Tasks**: Users have the ability to edit the content of any task by clicking the "Edit" button. - **Delete Tasks**: Users can delete tasks that are no longer needed by clicking the "Delete" button. - **Responsive Design**: The application is fully responsive, ensuring that it works seamlessly on both desktop and mobile devices. 
 
 ## How to Run the Application Follow these steps to get the Todolist-ReactApp up and running on your local machine:
